@@ -1,0 +1,195 @@
+[2016-10-04 18:13:39.129] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:13:39.131] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 18:22:12.658] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:22:12.660] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 18:22:12.706] [ERROR] console - Unhandled error for request GET /hello: Error: Cannot GET /hello
+    at raiseUrlNotFoundError (/home/xkumt00/code/cviceni/backend/node_modules/loopback/server/middleware/url-not-found.js:20:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:618:15
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:256:14)
+    at Function.handle (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:176:3)
+    at router (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:46:12)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at nosniff (/home/xkumt00/code/cviceni/backend/node_modules/dont-sniff-mimetype/index.js:4:5)
+[2016-10-04 18:23:25.939] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:23:25.941] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 18:25:32.319] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:25:32.322] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 18:28:34.619] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:28:34.622] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 18:34:26.611] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:34:26.614] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 18:45:19.330] [INFO] console - Models created: 
+ [ { title: 'Škoda Superb',
+    price: 750000,
+    shortInfo: 'Luxury car produced in the Czech Republic.',
+    id: 1 },
+  { title: 'Ford Focus',
+    price: 600000,
+    shortInfo: 'Sports car made in USA.',
+    id: 2 },
+  { title: 'Moped', price: 1000, shortInfo: 'No comment.', id: 3 } ]
+[2016-10-04 18:45:19.351] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 18:45:19.351] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 19:05:07.416] [ERROR] console - Unhandled error for request GET /product/: Error: Cannot GET /product/
+    at raiseUrlNotFoundError (/home/xkumt00/code/cviceni/backend/node_modules/loopback/server/middleware/url-not-found.js:20:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:618:15
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:256:14)
+    at Function.handle (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:176:3)
+    at router (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:46:12)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at nosniff (/home/xkumt00/code/cviceni/backend/node_modules/dont-sniff-mimetype/index.js:4:5)
+[2016-10-04 19:05:10.336] [ERROR] console - Unhandled error for request GET /product: Error: Cannot GET /product
+    at raiseUrlNotFoundError (/home/xkumt00/code/cviceni/backend/node_modules/loopback/server/middleware/url-not-found.js:20:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:618:15
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:256:14)
+    at Function.handle (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:176:3)
+    at router (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:46:12)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at nosniff (/home/xkumt00/code/cviceni/backend/node_modules/dont-sniff-mimetype/index.js:4:5)
+[2016-10-04 19:29:46.210] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 19:29:46.212] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 19:29:46.251] [ERROR] console - Unhandled error for request GET /products: Error: There is no method to handle GET /products
+    at restUrlNotFound (/home/xkumt00/code/cviceni/backend/node_modules/strong-remoting/lib/rest-adapter.js:338:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at jsonParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/json.js:103:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+[2016-10-04 19:29:59.541] [ERROR] console - Unhandled error for request GET /products: Error: There is no method to handle GET /products
+    at restUrlNotFound (/home/xkumt00/code/cviceni/backend/node_modules/strong-remoting/lib/rest-adapter.js:338:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at jsonParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/json.js:103:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+[2016-10-04 19:32:57.684] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 19:32:57.686] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 19:35:00.595] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 19:35:00.597] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
+[2016-10-04 19:40:15.967] [ERROR] console - Unhandled error for request GET /products: Error: There is no method to handle GET /products
+    at restUrlNotFound (/home/xkumt00/code/cviceni/backend/node_modules/strong-remoting/lib/rest-adapter.js:338:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at jsonParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/json.js:103:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+[2016-10-04 19:41:32.780] [ERROR] console - Unhandled error for request GET /products: Error: There is no method to handle GET /products
+    at restUrlNotFound (/home/xkumt00/code/cviceni/backend/node_modules/strong-remoting/lib/rest-adapter.js:338:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at jsonParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/json.js:103:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+[2016-10-04 19:41:35.860] [ERROR] console - Unhandled error for request GET /products: Error: There is no method to handle GET /products
+    at restUrlNotFound (/home/xkumt00/code/cviceni/backend/node_modules/strong-remoting/lib/rest-adapter.js:338:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at jsonParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/json.js:103:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+[2016-10-04 19:41:44.363] [ERROR] console - Unhandled error for request GET /products: Error: There is no method to handle GET /products
+    at restUrlNotFound (/home/xkumt00/code/cviceni/backend/node_modules/strong-remoting/lib/rest-adapter.js:338:17)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at jsonParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/json.js:103:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:330:12)
+    at next (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:271:10)
+    at urlencodedParser (/home/xkumt00/code/cviceni/backend/node_modules/body-parser/lib/types/urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:312:13)
+    at /home/xkumt00/code/cviceni/backend/node_modules/express/lib/router/index.js:280:7
+[2016-10-04 19:42:03.581] [INFO] console - Models created: 
+ [ { title: 'Škoda Superb',
+    price: 750000,
+    shortInfo: 'Luxury car produced in the Czech Republic.',
+    id: 1 },
+  { title: 'Ford Focus',
+    price: 600000,
+    shortInfo: 'Sports car made in USA.',
+    id: 2 },
+  { title: 'Moped', price: 1000, shortInfo: 'No comment.', id: 3 } ]
+[2016-10-04 19:42:03.602] [INFO] console - Web server listening at: http://0.0.0.0:undefined
+[2016-10-04 19:42:03.602] [INFO] console - Browse your REST API at http://0.0.0.0:undefined/explorer
